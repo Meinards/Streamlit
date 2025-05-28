@@ -7,7 +7,7 @@ import plotly.express as px
 
 # Dataset we need to import
 DATA_URL = (
-    "accidents_2012_to_2014.csv"
+    "https://rtukursi.eu/data/accidents_2012_to_2014.csv"
 )
 
 # Add title and subtitle of the map.
